@@ -5,6 +5,8 @@ tags: [S2, APUSH, lecture]
 date: Tuesday, April 4th 2023, 11:13:13 am
 date modified: Monday, April 24th 2023, 9:58:55 am
 title: Interwar Period
+feed: show
+format: list
 ---
 # Interwar Period
 ### Economic expansion & a consumer society

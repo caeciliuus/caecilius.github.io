@@ -6,6 +6,8 @@ date modified: Sunday, April 30th 2023, 8:24:59 pm
 title: "I: The Colonial Era"
 aliases: ["I: The Colonial Era"]
 linter-yaml-title-alias: "I: The Colonial Era"
+feed: show
+format: list
 ---
 # I: The Colonial Era
 #### Spanish model of colonization

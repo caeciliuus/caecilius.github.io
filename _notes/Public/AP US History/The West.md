@@ -5,6 +5,8 @@ tags: [APUSH, S2, lecture]
 date: Friday, January 27th 2023, 11:11:19 am
 date modified: Monday, April 24th 2023, 10:00:28 am
 title: The West
+feed: show
+format: list
 ---
 # The West
 ### U.S Indian policy in the west

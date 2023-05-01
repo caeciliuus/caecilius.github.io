@@ -5,6 +5,8 @@ tags: [APUSH, S2, lecture]
 date: Tuesday, January 24th 2023, 11:11:08 am
 date modified: Monday, April 24th 2023, 9:58:56 am
 title: Civil War & Reconstruction
+feed: show
+format: list
 ---
 # Civil War & Reconstruction
 ### Border states

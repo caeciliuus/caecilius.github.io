@@ -5,6 +5,8 @@ tags: [S2, APUSH, lecture]
 date: Monday, February 27th 2023, 11:19:50 am
 date modified: Monday, April 24th 2023, 9:58:55 am
 title: Progressive Era
+feed: show
+format: list
 ---
 # Progressive Era
 #### What is progressivism?

@@ -5,6 +5,8 @@ tags: [APUSH, S2, lecture]
 date: Monday, February 6th 2023, 11:17:26 am
 date modified: Monday, April 24th 2023, 10:00:28 am
 title: The Gilded Age
+feed: show
+format: list
 ---
 # The Gilded Age
 #### Key factors in the industrial revolution
