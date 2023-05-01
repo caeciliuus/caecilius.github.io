@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"0a98542fa31160eb","x":-194,"y":-61,"width":250,"height":107,"color":"4","type":"text","text":"###### [[S1 Wiki(APUSH.)#^a3e4f5 |Federalists]] - split due to Hamilton's fiscal policies"},
+		{"id":"943e3c6c01d0df69","x":56,"y":-222,"width":250,"height":132,"color":"4","type":"text","text":"Federalists evaporate when they embarrass themselves @ Hartford convention - leads to one party system again"},
+		{"id":"41d1ecb0bd38cb04","x":306,"y":332,"width":250,"height":50,"color":"5","type":"text","text":"John C. Calhoun"},
+		{"id":"7b304823918aa26b","x":597,"y":332,"width":250,"height":50,"color":"5","type":"text","text":"Andrew Jackson"},
+		{"id":"1dde7e23ee30dbc5","x":847,"y":459,"width":250,"height":50,"color":"1","type":"text","text":"John Quincy Adams"},
+		{"id":"01dc7f58fee08c35","x":556,"y":698,"width":386,"height":70,"color":"2","type":"text","text":"Nobody wins a majority over 50%, so it goes to the house for a vote"},
+		{"id":"35cdf95e1a9151ee","x":1148,"y":459,"width":321,"height":101,"color":"1","type":"text","text":"Henry Clay, speaker of the House ([[S1 Wiki(APUSH.)#^820330 | Clay's American System]])"},
+		{"id":"4236352fcb44b6a4","x":306,"y":42,"width":250,"height":79,"color":"6","type":"text","text":"**Democratic Republicans**"},
+		{"id":"01c1c4a1ccd3f98e","x":527,"y":827,"width":445,"height":110,"color":"2","type":"text","text":"Henry Clay throws his support behind Adams, Jackson is supported by Calhoun"},
+		{"id":"775c5cab502ca271","x":1081,"y":-215,"width":250,"height":105,"color":"5","type":"text","text":"Adams and Clay crete new party: **\"National Republicans\"** (Whigs)"},
+		{"id":"244d766cc2c295f1","x":1429,"y":-215,"width":250,"height":105,"color":"1","type":"text","text":"Jackson & Calhoun create new party: \"**Democrats**\""},
+		{"id":"fe93ffa6f60ed17e","x":1206,"y":798,"width":250,"height":169,"color":"1","type":"text","text":"**Adams wins the election** despite not winning the popular election of electoral college "},
+		{"id":"4787c34b41d0e7b4","x":1273,"y":-474,"width":250,"height":129,"color":"3","type":"text","text":"Increase in grassroot organization [[S1 Wiki(APUSH.)#^6b915b | grassroot organization]]"},
+		{"id":"66808ff75726ca62","x":1731,"y":-474,"width":250,"height":129,"color":"3","type":"text","text":"Electorate (# of people who can vote) goes up dramatically"},
+		{"id":"b9fa6f031e421494","x":1273,"y":38,"width":250,"height":87,"color":"6","type":"text","text":"#### Election of 1828"},
+		{"id":"fcf0e8a18adc7d3e","x":817,"y":19,"width":250,"height":125,"color":"6","type":"text","text":"#### Election of 1824"}
+	],
+	"edges":[
+		{"id":"7bdcb02539f1ae28","fromNode":"0a98542fa31160eb","fromSide":"top","toNode":"943e3c6c01d0df69","toSide":"left"},
+		{"id":"084c8a5cc7bed16f","fromNode":"4236352fcb44b6a4","fromSide":"right","toNode":"fcf0e8a18adc7d3e","toSide":"left"},
+		{"id":"42d3eff531dfc43a","fromNode":"fcf0e8a18adc7d3e","fromSide":"bottom","toNode":"7b304823918aa26b","toSide":"top"},
+		{"id":"0b5981b781566db6","fromNode":"fcf0e8a18adc7d3e","fromSide":"bottom","toNode":"41d1ecb0bd38cb04","toSide":"top"},
+		{"id":"b66b827d7ded7212","fromNode":"0a98542fa31160eb","fromSide":"bottom","toNode":"4236352fcb44b6a4","toSide":"left"},
+		{"id":"050e762646e21a70","fromNode":"943e3c6c01d0df69","fromSide":"right","toNode":"4236352fcb44b6a4","toSide":"top"},
+		{"id":"83bc9672209841e9","fromNode":"fcf0e8a18adc7d3e","fromSide":"bottom","toNode":"1dde7e23ee30dbc5","toSide":"top"},
+		{"id":"8b73942daacde4bd","fromNode":"fcf0e8a18adc7d3e","fromSide":"bottom","toNode":"35cdf95e1a9151ee","toSide":"top"},
+		{"id":"48d2df1e05a832bc","fromNode":"41d1ecb0bd38cb04","fromSide":"bottom","toNode":"01dc7f58fee08c35","toSide":"top"},
+		{"id":"3f7ea233e93f28be","fromNode":"7b304823918aa26b","fromSide":"bottom","toNode":"01dc7f58fee08c35","toSide":"top"},
+		{"id":"76f83be9dbf09097","fromNode":"1dde7e23ee30dbc5","fromSide":"bottom","toNode":"01dc7f58fee08c35","toSide":"top"},
+		{"id":"5fc67ba46d19ab92","fromNode":"35cdf95e1a9151ee","fromSide":"bottom","toNode":"01dc7f58fee08c35","toSide":"top"},
+		{"id":"7c33a32a5c97f3c1","fromNode":"01dc7f58fee08c35","fromSide":"bottom","toNode":"01c1c4a1ccd3f98e","toSide":"top"},
+		{"id":"db2ffc52a480c2a2","fromNode":"01c1c4a1ccd3f98e","fromSide":"right","toNode":"fe93ffa6f60ed17e","toSide":"left"},
+		{"id":"263996c56ce548ab","fromNode":"fcf0e8a18adc7d3e","fromSide":"right","toNode":"b9fa6f031e421494","toSide":"left"},
+		{"id":"a132ebfc8dedd5e4","fromNode":"b9fa6f031e421494","fromSide":"top","toNode":"775c5cab502ca271","toSide":"bottom"},
+		{"id":"15005d76ea2ed2e5","fromNode":"b9fa6f031e421494","fromSide":"top","toNode":"244d766cc2c295f1","toSide":"bottom"},
+		{"id":"5752ae8cf166c2a4","fromNode":"775c5cab502ca271","fromSide":"top","toNode":"4787c34b41d0e7b4","toSide":"bottom"},
+		{"id":"eb459ae2c4cb7016","fromNode":"244d766cc2c295f1","fromSide":"top","toNode":"4787c34b41d0e7b4","toSide":"bottom"},
+		{"id":"9ed0219e3932a117","fromNode":"4787c34b41d0e7b4","fromSide":"right","toNode":"66808ff75726ca62","toSide":"left"}
+	]
+}

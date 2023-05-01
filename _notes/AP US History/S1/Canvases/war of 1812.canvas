@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"19e89576deee1e1a","x":284,"y":-185,"width":194,"height":92,"color":"2","type":"text","text":"Non-Importation Act"},
+		{"id":"fb47790ca8778ff9","x":569,"y":-185,"width":214,"height":92,"color":"3","type":"text","text":"The *Chesapeake* Affair"},
+		{"id":"903ff0b289a10464","x":858,"y":-185,"width":250,"height":92,"color":"4","type":"text","text":"The Embargo Act"},
+		{"id":"c473daece2b723cc","x":1156,"y":-185,"width":250,"height":92,"color":"5","type":"text","text":"Non-Intercourse Act of 1809"},
+		{"id":"27725bd45cad586c","x":1503,"y":-185,"width":140,"height":92,"color":"6","type":"text","text":"Macon's Bill #2"},
+		{"id":"af6a7d8efa640cb4","x":1746,"y":-185,"width":126,"height":92,"type":"text","text":"War of 1812"},
+		{"id":"81065dd78f4c9c15","x":-208,"y":-185,"width":388,"height":92,"color":"1","type":"text","text":"British impressment - 6000 - 8000 impressed "},
+		{"id":"3a670de8544a8810","x":670,"y":-607,"width":50,"height":50,"type":"text","text":"---\ndg-publish: true\n---"}
+	],
+	"edges":[
+		{"id":"93dfba048b9d7c15","fromNode":"81065dd78f4c9c15","fromSide":"right","toNode":"19e89576deee1e1a","toSide":"left"},
+		{"id":"eec872f6cab41009","fromNode":"19e89576deee1e1a","fromSide":"right","toNode":"fb47790ca8778ff9","toSide":"left"},
+		{"id":"84196d8f5bcf16e5","fromNode":"fb47790ca8778ff9","fromSide":"right","toNode":"903ff0b289a10464","toSide":"left"},
+		{"id":"789839ff4d1d9f27","fromNode":"903ff0b289a10464","fromSide":"right","toNode":"c473daece2b723cc","toSide":"left"},
+		{"id":"8a2a927aec6106c1","fromNode":"c473daece2b723cc","fromSide":"right","toNode":"27725bd45cad586c","toSide":"left"},
+		{"id":"b2acd3476f5d6b61","fromNode":"27725bd45cad586c","fromSide":"right","toNode":"af6a7d8efa640cb4","toSide":"left"}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"9ed8aa6531424a0c","x":-541,"y":-132,"width":271,"height":86,"color":"1","type":"text","text":"###### Democratic Republicans"},
+		{"id":"cc00f1034da7bd27","x":-530,"y":15,"width":250,"height":60,"color":"1","type":"text","text":"Revolution of 1800"},
+		{"id":"a69ce93085504126","x":-531,"y":134,"width":251,"height":60,"color":"1","type":"text","text":"Thomas Jefferson 2x, James Madison (after GW & Adams)"},
+		{"id":"2b0d409ce02b3384","x":-874,"y":-285,"width":250,"height":166,"color":"1","type":"text","text":"Strict interpretation of constitution, stop expanding federal power, ally w/ France (not favoring England -> War of 1812)"},
+		{"id":"122a4895ff18d451","x":-874,"y":-81,"width":250,"height":120,"color":"1","type":"text","text":"Stop expanding federal power, prioritize state over federal government"},
+		{"id":"6d6adbb79949045d","x":-530,"y":-315,"width":250,"height":60,"color":"1","type":"text","text":"Reduce natl. debt, emphasis on agriculture"},
+		{"id":"7335c1c75d604c58","x":516,"y":-285,"width":250,"height":60,"color":"5","type":"text","text":"George Washington 2x, John Adams"},
+		{"id":"3a642cbc3f960d6d","x":-171,"y":-150,"width":305,"height":123,"color":"6","type":"text","text":"##### Hamilton's fiscal policies split congress into two groups"},
+		{"id":"fea284f8d7676b23","x":266,"y":-119,"width":250,"height":60,"color":"5","type":"text","text":"###### Federalists"},
+		{"id":"6b5072f06a14705e","x":-229,"y":-776,"width":50,"height":50,"type":"text","text":"---\ndg-publish: true\n---"},
+		{"id":"a2037def24ee135d","x":516,"y":9,"width":250,"height":60,"color":"5","type":"text","text":"Central banking, alliance w/ federal English states"},
+		{"id":"f976ae6523343e6f","x":684,"y":-119,"width":250,"height":60,"color":"5","type":"text","text":"Manufacturing, implicit interpretation, ally w/ England"}
+	],
+	"edges":[
+		{"id":"78fc37572a93daf4","fromNode":"3a642cbc3f960d6d","fromSide":"left","toNode":"9ed8aa6531424a0c","toSide":"right"},
+		{"id":"abda7a6adf209f32","fromNode":"9ed8aa6531424a0c","fromSide":"bottom","toNode":"cc00f1034da7bd27","toSide":"top"},
+		{"id":"82ce2b862dc50590","fromNode":"9ed8aa6531424a0c","fromSide":"left","toNode":"122a4895ff18d451","toSide":"right"},
+		{"id":"874c389d4f8e1834","fromNode":"cc00f1034da7bd27","fromSide":"bottom","toNode":"a69ce93085504126","toSide":"top"},
+		{"id":"f2ee539858ab7082","fromNode":"9ed8aa6531424a0c","fromSide":"left","toNode":"2b0d409ce02b3384","toSide":"right"},
+		{"id":"d5a6e9607f053478","fromNode":"9ed8aa6531424a0c","fromSide":"top","toNode":"6d6adbb79949045d","toSide":"bottom"},
+		{"id":"699015aeec27d5d4","fromNode":"3a642cbc3f960d6d","fromSide":"right","toNode":"fea284f8d7676b23","toSide":"left"},
+		{"id":"fc81b381a29daf98","fromNode":"fea284f8d7676b23","fromSide":"right","toNode":"7335c1c75d604c58","toSide":"bottom"},
+		{"id":"71727d6ac2238fdb","fromNode":"fea284f8d7676b23","fromSide":"right","toNode":"f976ae6523343e6f","toSide":"left"},
+		{"id":"dae5396083f07633","fromNode":"fea284f8d7676b23","fromSide":"right","toNode":"a2037def24ee135d","toSide":"top"}
+	]
+}
